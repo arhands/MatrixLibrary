@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixInverter", "MatrixInverter\MatrixInverter.csproj", "{B31C49C4-2DDC-4A8C-AEFC-EA7791B2AE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31C49C4-2DDC-4A8C-AEFC-EA7791B2AE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31C49C4-2DDC-4A8C-AEFC-EA7791B2AE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31C49C4-2DDC-4A8C-AEFC-EA7791B2AE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31C49C4-2DDC-4A8C-AEFC-EA7791B2AE33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6370F31-4636-41DD-BD79-49DBE302422D}
+	EndGlobalSection
+EndGlobal
